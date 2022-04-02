@@ -1,4 +1,5 @@
-### Hola, me llamo Santiago 👋 ![Miles8bist](https://user-images.githubusercontent.com/102564125/161393499-a2dbb249-d713-4f2e-88cb-371e0defdae5.gif)
+### Hola, me llamo Santiago 👋 
+<p>                                                       </p>![Miles8bist](https://user-images.githubusercontent.com/102564125/161393499-a2dbb249-d713-4f2e-88cb-371e0defdae5.gif)
 
 - ⚡ Soy estudiante de ingeniería de sistemas de la Universidad EAN, actualmente en 2do Semestre.
 <p align="center">
